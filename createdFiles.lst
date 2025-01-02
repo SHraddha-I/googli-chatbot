@@ -1,10 +1,1 @@
-com\shraddha\chatbot\controller\HomeController.class
-com\shraddha\chatbot\model\Message.class
-com\shraddha\chatbot\controller\ChatbotController.class
-com\shraddha\chatbot\ChatbotApplication.class
-com\shraddha\chatbot\service\UserService.class
-com\shraddha\chatbot\repository\MessageRepository.class
-com\shraddha\chatbot\model\User.class
-com\shraddha\chatbot\repository\UserRepository.class
-com\shraddha\chatbot\service\ChatbotService.class
-com\shraddha\chatbot\controller\AuthController.class
+com\shraddha\chatbot\ChatbotApplicationTests.class
